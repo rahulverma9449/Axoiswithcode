@@ -5,25 +5,25 @@ app.get('/api/products', (req, res) => {
     const products = [
         {
             id: 1,
-            name: 'Product 1',
+            name: 'wood',
             price: 200,
             image: 'https://picsum.photos/200/300'
         },
         { 
             id: 2,
-            name: 'Product 2',
+            name: 'plate',
             price: 300,
             image: 'https://picsum.photos/200/300'
         },
         {
             id: 3,
-            name: 'Product 3',
+            name: 'fruits',
             price: 500,
             image: 'https://picsum.photos/200/300'
         },
         { 
             id: 4,
-            name: 'Product 4',
+            name: 'siyaram_saree',
             price: 700,
             image: 'https://picsum.photos/200/300'
         },
